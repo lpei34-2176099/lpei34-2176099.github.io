@@ -42,7 +42,7 @@ li{
 }
 
 #LeftNav ul{
-  
+  list-style-type: none;
 }
 
 #LeftNav h3{
