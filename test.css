@@ -27,7 +27,11 @@ li{
 }
 
 #LeftNav{
-  
+  width: 500px;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:10px;
+  border: solid 8px black;
 }
 
 #LeftNav img{
@@ -43,9 +47,17 @@ li{
 }
 
 #Content{
-  
+  width: 500px;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:10px;
+  border: solid 8px black;
 }
 
 #Footer{
-  
+  width: 500px;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:10px;
+  border: solid 8px black;
 }  
