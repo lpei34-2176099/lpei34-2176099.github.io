@@ -15,6 +15,7 @@ li{
 }
 
 #Header {
+  text-align: center;
   width: 500px;
   margin-left: auto;
   margin-right:auto;
@@ -27,6 +28,7 @@ li{
 }
 
 #LeftNav{
+  text-align: center;
   float: left;
   width: 500px;
   margin-left: auto;
@@ -48,6 +50,7 @@ li{
 }
 
 #Content{
+  text-align: center;
   width: 500px;
   margin-left: auto;
   margin-right:auto;
@@ -56,6 +59,7 @@ li{
 }
 
 #Footer{
+  text-align: center;
   width: 500px;
   margin-left: auto;
   margin-right:auto;
