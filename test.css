@@ -15,7 +15,7 @@ li{
 }
 
 #Header {
-  
+  border: solid 8px black;
 }
 
 #Header h1{
