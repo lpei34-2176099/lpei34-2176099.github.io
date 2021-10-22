@@ -24,7 +24,9 @@ li{
 }
 
 #Header h1{
-  
+  color: #FFBC00;
+  font-size: 60px;
+  font-weight: bold;
 }
 
 #LeftNav{
