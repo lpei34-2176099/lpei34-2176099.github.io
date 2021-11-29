@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Some CSS</title>
+  </head>
+  <body>
+    <h1>Text 1</h1>
+    div {
+  display: flex;
+  align-items: center;
+}
+    <h2>Text 2</h2>
+    <p>Paragraph 1</p>
+    <ol>
+      < a href="https://www.cbssports.com/mlb/news/2021-mlb-playoffs-bracket-postseason-baseball-results-as-braves-defeat-astros-for-world-series-title/"> 
+        <img src="https://sportshub.cbsistatic.com/i/r/2021/11/03/afc43660-0568-4df1-8e3c-7d97a56edfc0/thumbnail/770x433/c30d350e90dc74597dc6eb9c5b8b880d/2021-mlb-postseason-bracket-braves-1.png" title=2021 MLB Playoff style="width=100px;height=100px;margin=20px;
+    </a>   
+  </body>
+</html>
